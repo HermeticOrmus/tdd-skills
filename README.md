@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_ouroboros.gif" alt="TDD Skills" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_triforce.gif" alt="TDD Skills" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">TDD Skills</h1>
